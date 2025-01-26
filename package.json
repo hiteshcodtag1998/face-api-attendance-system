@@ -1,0 +1,16 @@
+{
+  "name": "face-recognition-attendance",
+  "version": "1.0.0",
+  "description": "Face recognition-based attendance system with Node.js and face-api.js",
+  "main": "server.js",
+  "scripts": {
+    "start": "node server.js"
+  },
+  "dependencies": {
+    "canvas": "^2.11.2",
+    "express": "^4.17.1",
+    "face-api.js": "^0.22.2",
+    "multer": "^1.4.2",
+    "sharp": "^0.33.5"
+  }
+}
